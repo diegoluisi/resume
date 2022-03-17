@@ -38,12 +38,14 @@
   - Conversation - intermediate
   
 ## Certifications:
+- GitOps Fundamentals
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Courses and Seminars:
+- [codefresh] GitOps Fundamentals
 - Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 hours)
