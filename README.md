@@ -1,6 +1,6 @@
 [![Docs to PDF](https://github.com/diegoluisi/resume/actions/workflows/docs-to-pdf.yml/badge.svg)](https://github.com/diegoluisi/resume/actions/workflows/docs-to-pdf.yml)
 
-# Resume
+# Resume:
 ## Personal data:
 - Diego Fernando Luisi
   - Brazilian, single
